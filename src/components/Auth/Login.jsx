@@ -16,7 +16,7 @@ const submitHandler = (e)=>{
     <div className='flex items-center justify-center h-screen '>
       <div className='bg-black h-[60%] flex flex-col justify-between   bg-opacity-30 backdrop-blur-lg  border-white border-2 border-opacity-30 p-10 rounded-lg shadow-lg'>
       <div className='flex gap-1  items-center ml-11'>
-        <img className='w-15 h-7  font-semibold'  src="https://JeetMondal777.github.io/manager/my-project/public/Screenshot_2024-11-24_195122-removebg-preview-fotor-2024112420233.png" alt="logo" />
+        <img className='w-15 h-7  font-semibold'  src="my-project/public/Screenshot_2024-11-24_195122-removebg-preview-fotor-2024112420233.png" alt="logo" />
         <h3 className='font-semibold text-lg tracking-wide text-[#fff]'>MANAGER</h3>
       </div>
       <form className='flex flex-col items-center'
